@@ -1,0 +1,1 @@
+Connects to websocket and acts as a pseudo netcat connection to answer trivia questions about US state and country capitals.
